@@ -1,6 +1,7 @@
-$schema: 1.0
-name: devbox-vscode-git
+$schema: "1.0"
+name: "devbox-vscode-git"
 image: microsoftwindowsdesktop_windows-ent-cpc_win11-23h2-ent-cpc-m365
+description: "This definition is for the DevBox Git and VS Code engineering environment"
 
 tasks:
   - name: winget
